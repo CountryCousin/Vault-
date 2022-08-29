@@ -1,8 +1,8 @@
-// a contract where the owner create grant for a beneficiary
+    ```// a contract where the owner create grant for a beneficiary
     // allows the beneficiary to withdraw only when time elapses
     // allows owner to withdraw before time elapse
     // get information of a beneficiary
-    // amount of ethers in the smart contract
+    // amount of ethers in the smart contract```
 
 
 
